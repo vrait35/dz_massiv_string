@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\dz_stroki_massivy\dz_stroki_massivy\bin\Debug\dz_stroki_massivy.exe.config
+C:\Users\anuar\source\repos\dz_stroki_massivy\dz_stroki_massivy\bin\Debug\dz_stroki_massivy.exe
+C:\Users\anuar\source\repos\dz_stroki_massivy\dz_stroki_massivy\bin\Debug\dz_stroki_massivy.pdb
+C:\Users\anuar\source\repos\dz_stroki_massivy\dz_stroki_massivy\obj\Debug\dz_stroki_massivy.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\dz_stroki_massivy\dz_stroki_massivy\obj\Debug\dz_stroki_massivy.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\dz_stroki_massivy\dz_stroki_massivy\obj\Debug\dz_stroki_massivy.exe
+C:\Users\anuar\source\repos\dz_stroki_massivy\dz_stroki_massivy\obj\Debug\dz_stroki_massivy.pdb
